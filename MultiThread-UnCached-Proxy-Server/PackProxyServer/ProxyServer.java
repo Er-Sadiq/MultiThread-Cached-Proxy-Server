@@ -77,8 +77,8 @@ public class ProxyServer {
                     out.write(responseLine.getBytes());
                     out.write("\n".getBytes());
 
-                    LogFileHandler.log("Response : " + responseLine);
-                    System.out.println("Response : "+responseLine);
+                    LogFileHandler.log("Response Cache " + responseLine);
+                    System.out.println("Response Cache "+responseLine);
                 }
             }
 
