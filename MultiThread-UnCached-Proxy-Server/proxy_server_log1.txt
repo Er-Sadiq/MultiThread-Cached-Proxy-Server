@@ -1,0 +1,77 @@
+[2024-03-29 07:18:34] Proxy Server Has Started
+
+[2024-03-29 07:18:34] Proxy server listening on port 8080...
+[2024-03-29 07:18:34] New client connected: /127.0.0.1:55248
+[2024-03-29 07:18:34] Proxy : Intercepting Host: Port-Num:80 Host Request:ocsp.pki.goog
+
+[2024-03-29 07:18:34] Proxy : Host-Request has been Forwarded to Destination
+
+[2024-03-29 07:18:34] New client connected: /127.0.0.1:55254
+[2024-03-29 07:18:34] Proxy : Intercepting Host: Port-Num:80 Host Request:ocsp.pki.goog
+
+[2024-03-29 07:18:34] Response Cache
+
+[2024-03-29 07:18:34] New client connected: /127.0.0.1:55268
+[2024-03-29 07:18:34] New client connected: /127.0.0.1:55282
+[2024-03-29 07:18:34] Proxy : Intercepting Host: Port-Num:80 Host Request:ocsp.pki.goog
+
+[2024-03-29 07:18:34] Response Cache
+
+[2024-03-29 07:18:34] Proxy : Host-Request has been Forwarded to Destination
+
+[2024-03-29 07:18:34] Proxy : Host-Request has been Forwarded to Destination
+
+[2024-03-29 07:18:34] New client connected: /127.0.0.1:55298
+[2024-03-29 07:18:34] Proxy : Intercepting Host: Port-Num:80 Host Request:ocsp.pki.goog
+
+[2024-03-29 07:18:34] Response Cache
+
+[2024-03-29 07:18:35] New client connected: /127.0.0.1:55306
+[2024-03-29 07:18:35] Proxy : Intercepting Host: Port-Num:80 Host Request:ocsp.pki.goog
+
+[2024-03-29 07:18:35] Response Cache
+
+[2024-03-29 07:18:35] New client connected: /127.0.0.1:55312
+[2024-03-29 07:18:35] Proxy : Intercepting Host: Port-Num:80 Host Request:ocsp.pki.goog
+
+[2024-03-29 07:18:35] Response Cache
+
+[2024-03-29 07:18:36] New client connected: /127.0.0.1:55322
+[2024-03-29 07:18:36] Proxy : Intercepting Host: Port-Num:80 Host Request:ocsp.pki.goog
+
+[2024-03-29 07:18:36] Response Cache
+
+[2024-03-29 07:18:37] New client connected: /127.0.0.1:55336
+[2024-03-29 07:18:37] Proxy : Intercepting Host: Port-Num:80 Host Request:ocsp.pki.goog
+
+[2024-03-29 07:18:37] Response Cache
+
+[2024-03-29 07:18:37] New client connected: /127.0.0.1:39088
+[2024-03-29 07:18:37] Proxy : Intercepting Host: Port-Num:80 Host Request:ocsp.pki.goog
+
+[2024-03-29 07:18:37] Response Cache
+
+[2024-03-29 07:18:37] New client connected: /127.0.0.1:39094
+[2024-03-29 07:18:37] New client connected: /127.0.0.1:39106
+[2024-03-29 07:18:37] Proxy : Intercepting Host: Port-Num:80 Host Request:ocsp.pki.goog
+
+[2024-03-29 07:18:37] Proxy : Intercepting Host: Port-Num:80 Host Request:ocsp.pki.goog
+
+[2024-03-29 07:18:37] Response Cache
+
+[2024-03-29 07:18:37] Proxy : Host-Request has been Forwarded to Destination
+
+[2024-03-29 07:18:37] Proxy : Host-Request has been Forwarded to Destination
+
+[2024-03-29 07:18:38] New client connected: /127.0.0.1:39114
+[2024-03-29 07:18:38] Proxy : Intercepting Host: Port-Num:80 Host Request:ocsp.pki.goog
+
+[2024-03-29 07:18:38] Response Cache
+
+[2024-03-29 07:18:39] New client connected: /127.0.0.1:39128
+[2024-03-29 07:18:39] Proxy : Intercepting Host: Port-Num:80 Host Request:ocsp.pki.goog
+
+[2024-03-29 07:18:39] Response Cache
+
+[2024-03-29 07:18:39] New clie
+
