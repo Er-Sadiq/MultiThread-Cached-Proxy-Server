@@ -29,7 +29,11 @@ Flow Diagram :
 ![Flow Chat](https://github.com/Er-Sadiq/MultiThread-Cached-Proxy-Server/assets/125464939/5dc78660-271f-4c2a-80e8-23228b561da0)
 
 ![Vs_Code](https://github.com/Er-Sadiq/MultiThread-Cached-Proxy-Server/assets/125464939/bed07263-8000-45bf-95d4-374f47c3ad72)
-Text Log of Uncached :
-![Text_Log](https://github.com/Er-Sadiq/MultiThread-Cached-Proxy-Server/assets/125464939/2b69af42-2a42-49ec-8a88-0e6c06f3dd53)
+Text Log of Uncached Server :
+![UnCached-V1](https://github.com/Er-Sadiq/MultiThread-Cached-Proxy-Server/assets/125464939/d6bfa987-5d9c-4d88-b496-73ae1b9c59ab)
+Text Log of cached Server :
+![cahce resome](https://github.com/Er-Sadiq/MultiThread-Cached-Proxy-Server/assets/125464939/a1681f4c-ee2e-4892-bdd4-a584a815735b)
+
+
 
 
